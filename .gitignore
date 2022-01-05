@@ -1,0 +1,17 @@
+.DS_Store
+.idea
+*.npy
+*.wav
+**.txt
+logs
+__pycache__
+*/__pycache__
+*.json
+*.lock
+/**/model_b/
+/**/model_tfd/
+/**/data/
+/**/raw_data/
+/**/XY_dev/
+/**/XY_train/
+/**/images/
